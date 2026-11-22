@@ -1,8 +1,7 @@
 {
   "maintenance": false,
-  "message": "System is under maintenance.",
-  "lib_version": "2.0",
-  "update_note": "Play Safe! Yeni sürüm aktif.",
-  "sha256": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
-  "lib_url": "https://raw.githubusercontent.com/ensarkara421-collab/CheatOnlineserver/main/libAli.so"
+  "lib_version": "V2",
+  "update_note": "Yeni güncelleme hazır! / New update ready!",
+  "lib_url": "https://senin-site.com/libAli_v2.so",
+  "sha256": ""
 }
