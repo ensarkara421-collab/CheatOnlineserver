@@ -1,5 +1,5 @@
 {
-  "maintenance": true,
+  "maintenance": false,
   "message": "Sistem bakımda, lütfen daha sonra tekrar deneyin.\nSystem is under maintenance, please try again later.",
   "lib_version": "V1",
   "update_note": "Yeni sürüm V4 hazır! / New version V4 is ready!",
