@@ -1,8 +1,8 @@
 {
   "maintenance": false,
   "message": "Sistem bakımda, lütfen daha sonra tekrar deneyin.\nSystem is under maintenance, please try again later.",
-  "lib_version": "v3",
-  "update_note": "Yeni sürüm V3 hazır! / New version V3 is ready!",
+  "lib_version": "v3 Fix",
+  "update_note": "Yeni sürüm V3 Fix hazır! / New version V3 Fix is ready!",
   "lib_url": "https://raw.githubusercontent.com/ensarkara421-collab/CheatOnlineserver/main/libAli.so",
   "sha256": ""
 }
